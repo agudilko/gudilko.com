@@ -59,7 +59,7 @@ def parse(page):
                     key = ART.search(url).group(1)
                     found[key] = {
                         "key": key,
-                        "url": url.split("?")[0],
+                        "url": url.split("?")[0].replace("/sites/forbestechcouncil/", "/councils/forbestechcouncil/"),
                         "title": html.unescape(node["title"]).strip(),
                         "date": "-".join(key.split("/")[:3]),
                         "views": to_int(node["pageViews"]),
