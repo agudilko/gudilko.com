@@ -1,6 +1,6 @@
 {
   "source": "https://www.forbes.com/councils/forbestechcouncil/people/alexgudilko/",
-  "checked": "2026-11-19",
+  "checked": "2026-11-24",
   "articles": [
     {
       "key": "2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective",
@@ -8,7 +8,7 @@
       "title": "Can Artificial Intelligence Replace Humans? An Engineering Perspective",
       "display_title": "Can Artificial Intelligence Replace Humans? An Engineering Perspective",
       "date": "2023-12-27",
-      "views": 11289
+      "views": 11292
     },
     {
       "key": "2023/10/02/iot-hardware-development-from-idea-to-profit",
@@ -24,7 +24,7 @@
       "title": "Diversifying Your Imports: Manufacturing Consumer Electronics Without Breaking The Bank",
       "display_title": "Diversifying Your Imports: Manufacturing Consumer Electronics Without Breaking The Bank",
       "date": "2023-05-16",
-      "views": 1150
+      "views": 1152
     },
     {
       "key": "2026/08/14/hardware-subscription-models-why-customers-cancel-and-how-to-build-one-theyll-keep",
@@ -32,7 +32,7 @@
       "title": "Hardware Subscription Models: Why Customers Cancel—And How To Build One They’ll Keep",
       "display_title": "Hardware Subscription Models: Why Customers Cancel, And How To Build One They Will Keep",
       "date": "2026-08-14",
-      "views": 90
+      "views": 91
     },
     {
       "key": "2026/07/02/five-trends-in-building-and-designing-ai-technology",
@@ -48,7 +48,7 @@
       "title": "BOM: What It Is And Why You’ll Need One Sooner Than You Think",
       "display_title": "BOM: What It Is And Why You Will Need One Sooner Than You Think",
       "date": "2026-01-07",
-      "views": 98
+      "views": 100
     },
     {
       "key": "2025/07/09/before-you-build-critical-questions-you-should-ask-before-hardware-product-development",
@@ -56,7 +56,7 @@
       "title": "Before You Build: Critical Questions You Should Ask Before Hardware Product Development",
       "display_title": "Before You Build: Critical Questions You Should Ask Before Hardware Product Development",
       "date": "2025-07-09",
-      "views": 168
+      "views": 169
     },
     {
       "key": "2024/06/28/how-to-protect-your-ip-when-working-with-clients-and-partners",
@@ -80,7 +80,7 @@
       "title": "Hardware In Hard Times: How To Succeed In Innovating When The Industry Collapses",
       "display_title": "Hardware In Hard Times: How To Succeed In Innovating When The Industry Collapses",
       "date": "2023-02-16",
-      "views": 515
+      "views": 517
     }
   ]
 }
